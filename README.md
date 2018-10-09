@@ -2,11 +2,7 @@
 
 Everything you ever wanted to know about project resourcing.
 
-<style>
-    .tc1 {font-weight:bold;background-color: #aebff3;}
-    .tc2 {font-weight:bold;background-color: #a3e4a3;}
-    .tc3 {font-weight:bold;background-color: #e6f99c;}
-</style>
+
 <table style="text-align:center;">
     <tr>
         <th colspan="2" class="tc1">Senior Consultant / Business Owner</td>
