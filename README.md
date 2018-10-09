@@ -2,12 +2,16 @@
 
 Everything you ever wanted to know about project resourcing.
 
-
+<style>
+    .tc1 {font-weight:bold;background-color: #aebff3;}
+    .tc2 {font-weight:bold;background-color: #a3e4a3;}
+    .tc3 {font-weight:bold;background-color: #e6f99c;}
+</style>
 <table style="text-align:center;">
     <tr>
-        <td colspan="2" style="font-weight:bold;background-color: #aebff3;">Senior Consultant / Business Owner</td>
-        <td colspan="2" style="font-weight:bold;background-color: #a3e4a3;">Junior Consultant</td>
-        <td colspan="2" style="font-weight:bold;background-color: #e6f99c;">Client</td>
+        <th colspan="2" class="tc1">Senior Consultant / Business Owner</td>
+        <th colspan="2" class="tc2">Junior Consultant</td>
+        <th colspan="2" class="tc3">Client</td>
     </tr>
     <tr>
         <td colspan="1">Do I get sleep?</td>
