@@ -6,8 +6,8 @@ Everything you ever wanted to know about project resourcing.
 <table style="text-align:center;">
     <tr>
         <td colspan="2" style="font-weight:bold;background-color: #aebff3;">Senior Consultant / Business Owner</td>
-        <td colspan="2" style="font-weight:bold;background-color: #a3e4a3;>Junior Consultant</td>
-        <td colspan="2" style="font-weight:bold;background-color: #e6f99c;>Client</td>
+        <td colspan="2" style="font-weight:bold;background-color: #a3e4a3;">Junior Consultant</td>
+        <td colspan="2" style="font-weight:bold;background-color: #e6f99c;">Client</td>
     </tr>
     <tr>
         <td colspan="1">Do I get sleep?</td>
